@@ -1,5 +1,9 @@
 # spacy-lemmatizer-de-fix
-Please have a look at <Spacy Lemma Correction with Lookups Data.ipynb> on how to customize lemmatization in spaCy 2.2+.
+
+How to customize lemmatization in spaCy 2.2+ is explained in this notebook:
+
+[Spacy Lemma Correction with Lookups Data.ipynb](Spacy\ Lemma\ Correction\ with\ Lookups\ Data.ipynb)
+
 
 See also: <https://github.com/explosion/spaCy/issues/2668>
 
